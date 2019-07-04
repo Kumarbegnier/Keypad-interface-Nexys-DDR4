@@ -1,4 +1,4 @@
 External Keypad-Interface-Nexys-DDR4 
-nexys-ddr4 interface
-hdl language program execute on nexys ddr4 
-fpga program on hdl language
+Nexys-ddr4 interface
+HDL language program execute on NEXYS ddr4 
+FPGA program on HDL language
