@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Apr  5 18:19:22 2019
+# Process ID: 9132
+# Current directory: C:/Users/sairam/Desktop/PMOD_KYPD/PMOD_KYPD.runs/synth_1
+# Command line: vivado.exe -log PmodKYPD.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PmodKYPD.tcl
+# Log file: C:/Users/sairam/Desktop/PMOD_KYPD/PMOD_KYPD.runs/synth_1/PmodKYPD.vds
+# Journal file: C:/Users/sairam/Desktop/PMOD_KYPD/PMOD_KYPD.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source PmodKYPD.tcl -notrace
